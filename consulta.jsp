@@ -1,9 +1,3 @@
-<%-- 
-    Document   : consulta
-    Created on : 26 de mai. de 2023, 01:25:17
-    Author     : mauro
---%>
-
 <%@page import="java.util.ArrayList"%>
 <%@page import="dao.dao"%>
 <%@page import="java.util.List"%>
