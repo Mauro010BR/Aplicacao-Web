@@ -1,9 +1,3 @@
-<%-- 
-    Document   : ConsultarId
-    Created on : 30 de mai. de 2023, 01:08:57
-    Author     : mauro
---%>
-
 <%@page import="model.pedido"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
