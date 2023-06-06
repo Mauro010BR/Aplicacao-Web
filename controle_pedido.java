@@ -1,8 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Servlet.java to edit this template
- */
-
 import dao.dao;
 import model.pedido;
 import java.io.IOException;
@@ -18,10 +13,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author mauro
- */
 @WebServlet(urlPatterns = {"/cadastro_pedido"})
 public class controle_pedido extends HttpServlet {
 
